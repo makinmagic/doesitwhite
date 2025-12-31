@@ -657,6 +657,13 @@
     "Category": "Chairs",
     "DoesItWhite": "Yes"
   },
+    {
+    "Item Name": "Somatosense Massage Recliner",
+    "Page": "N",
+    "Item": "00",
+    "Category": "Chairs",
+    "DoesItWhite": "Yes"
+  },
   {
     "Item Name": "Champignon Toadstool Chair",
     "Page": "4",
@@ -1055,13 +1062,6 @@
     "Item": "03",
     "Category": "Misc",
     "DoesItWhite": "No"
-  },
-  {
-    "Item Name": "Somatosense Massage Recliner",
-    "Page": "N",
-    "Item": "00",
-    "Category": "Chairs",
-    "DoesItWhite": "Yes"
   },
   {
     "Item Name": "Big N Bouncy Ball",
